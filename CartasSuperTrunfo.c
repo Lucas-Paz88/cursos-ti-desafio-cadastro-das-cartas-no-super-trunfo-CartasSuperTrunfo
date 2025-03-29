@@ -11,6 +11,7 @@ int main() {
 
     printf("Estado: ");
     scanf(" %s", estado);
+    
 
     printf("Código da Carta: ");
     scanf(" %s", codigo);
